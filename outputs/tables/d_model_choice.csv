@@ -1,0 +1,5 @@
+﻿phuong_an,so_cot,k_tot_nhat,silhouette_max,on_dinh_ARI,cum_nho_nhat,silhouette_TB_k3-6,on_dinh_TB_k3-6,duoc_chon
+A: số + gender + region + category,17.0,3.0,0.26158421069136245,0.8906648109460639,60.0,0.21314320845477885,0.8686790822441406,False
+B: bỏ category,12.0,3.0,0.2864545341317109,0.8714395987043813,59.0,0.2333336413835049,0.8463031073327898,False
+C: PCA 5 thành phần (chỉ số),5.0,3.0,0.37181081725834225,0.8859833952430295,60.0,0.32213956034708746,0.8646878759006509,True
+"Chỉ thuộc tính số, không PCA (kiểm tra bổ sung)",8.0,,,,,0.2753617130123458,,False

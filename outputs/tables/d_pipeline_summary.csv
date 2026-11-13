@@ -1,0 +1,7 @@
+﻿buoc,thao_tac,ap_dung_cho,ket_qua
+1,log1p,"annual_income, avg_order_value, orders_per_year, sessions_per_month, tenure_months, days_since_last_purchase",|skew| lớn nhất: 8.1 -> 1.9
+2,Bỏ thuộc tính,"membership_tier, sessions_per_month",Spearman tier~chi tiêu 0.88; sessions~orders 0.90
+3,Mã hóa,"gender 0/1; region, preferred_category one-hot",9 cột nhị phân
+4,StandardScaler,"age, log_tenure_months, log_annual_income, log_orders_per_year, log_avg_order_value, log_days_since_last_purchase, return_rate, discount_usage_rate","mean 0, std 1 cho mọi thuộc tính số"
+5,PCA (để so sánh),5 thành phần,90.3% phương sai
+6,Phương án cuối,C: PCA 5 thành phần (chỉ số),220 dòng × 5 đặc trưng (+ customer_id)

@@ -1,0 +1,4 @@
+﻿,n,%,age,tenure_months,annual_income,orders_per_year,avg_order_value,days_since_last_purchase,return_rate,discount_usage_rate,sessions_per_month,tier_pho_bien,category_pho_bien,nu_%,phan_khuc_that_chinh
+0,74,33.6,25.5,22.0,146.15,43.0,231.0,5.0,0.18,0.72,29.0,Silver,Thời trang (42%),55.0,DealHunter (93%)
+1,60,27.3,29.0,3.0,186.35,3.0,395.7,122.5,0.08,0.3,6.0,Bronze,Thời trang (35%),52.0,NewInactive (98%)
+2,86,39.1,39.0,51.0,360.75,23.5,746.95,14.0,0.08,0.32,18.0,Gold,Điện tử (36%),50.0,Loyal (64%)

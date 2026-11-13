@@ -1,0 +1,5 @@
+﻿tieu_chi,Trước xử lý,Sau xử lý,Trước đạt,Sau đạt
+3–6 cụm,2.0,3.0,False,True
+Cụm nhỏ nhất ≥ 5%,1.4,27.3,False,True
+"ARI ≥ 0,6",0.011,0.751,False,True
+"Silhouette ≥ 0,25 (không gian riêng)",0.978,0.372,True,True
